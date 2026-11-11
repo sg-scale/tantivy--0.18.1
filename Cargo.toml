@@ -41,7 +41,7 @@ fastfield_codecs = { version="0.2", path="./fastfield_codecs", default-features 
 ownedbytes = { version="0.3", path="./ownedbytes" }
 stable_deref_trait = "1.2.0"
 rust-stemmers = "1.2.0"
-downcast-rs = "1.2.0"
+downcast-rs = "2.0.2"
 bitpacking = { version = "0.8.4", default-features = false, features = ["bitpacker4x"] }
 census = "0.4.0"
 fnv = "1.0.7"
