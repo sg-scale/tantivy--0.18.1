@@ -14,4 +14,4 @@ ownedbytes = { version="0.3", path="../ownedbytes" }
 
 [dev-dependencies]
 proptest = "1.0.0"
-rand = "0.8.4"
+rand = "0.10.3"

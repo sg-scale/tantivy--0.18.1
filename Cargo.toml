@@ -64,7 +64,7 @@ async-trait = "0.1.53"
 winapi = "0.3.9"
 
 [dev-dependencies]
-rand = "0.8.5"
+rand = "0.10.3"
 maplit = "1.0.2"
 matches = "0.1.9"
 proptest = "1.0.0"
